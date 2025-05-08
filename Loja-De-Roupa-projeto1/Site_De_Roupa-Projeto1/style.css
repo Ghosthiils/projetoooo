@@ -1,160 +1,143 @@
 .titulo {
-    text-align: center;
-    width: 100%;
-    background-color: brown;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
+  text-align: center;
+  width: 100%;
+  background-color: brown;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 body {
-    background-image: url(imagens/de\ fundo.png);
-    width: 100%;
+  background-image: url(imagens/de\ fundo.png);
+  width: 100%;
 }
 h3 {
-    text-align: center;
-    color: white;
-    
+  text-align: center;
+  color: white;
 }
 #marca {
-    color: wheat;
+  color: wheat;
 }
 .camisa1 {
-    width: 300px;
-    height: 300px;
-    margin: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-     
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .camisa2 {
-    width: 300px;
-    height: 300px;
-    display: block;
-    margin-top: -368px;   
-    
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin-top: -368px;
 }
 .camisa3 {
-    width: 300px;
-    height: 300px;
-    display: block;
-    
+  width: 300px;
+  height: 300px;
+  display: block;
 }
 .camisa4 {
-    width: 300px;
-    height: 300px;
-    display: block;
-    float: right;
-    margin-top: -738px;
-    
-
+  width: 300px;
+  height: 300px;
+  display: block;
+  float: right;
+  margin-top: -738px;
 }
 .camisa5 {
-    width: 300px;
-    height: 300px;
-    display: block;
-    margin: auto;
-    margin-top: -415px;
-
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: auto;
+  margin-top: -415px;
 }
-.camsisa6 {
-    width: 300px;
-    height: 300px;
-    display: block;
-    float: right;
-    margin-top: -738px;
+.camisa6 {
+  width: 300px;
+  height: 300px;
+  display: block;
+  float: right;
+  margin-top: -738px;
 }
 #cami4 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: green;
-    text-align: center;
-    
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  text-align: center;
 }
 #cami5 {
-    font-family: 'Courier New', Courier, monospace;
-    color: green;
-    text-align: right;
+  font-family: "Courier New", Courier, monospace;
+  color: green;
+  text-align: right;
 }
 #cami6 {
-    color: green;
+  color: green;
 }
-
- 
-    
- 
 
 #cami1 {
-    color: rgb(23, 77, 23);
-   font-family:  sans-serif;
-    text-wrap: nowrap;
-    overflow: hidden;
-    animation: typing 1s steps(10) infinite alternate-reverse;
-    text-align: center;
-
-    
+  color: rgb(23, 77, 23);
+  font-family: sans-serif;
+  text-wrap: nowrap;
+  overflow: hidden;
+  animation: typing 1s steps(10) infinite alternate-reverse;
+  text-align: center;
 }
- @keyframes typing {
-    from {
-        width: 0ch;
-    }
- }
- #cami2 {
-    color: green;
-    font-family: sans-serif;
-    text-wrap: nowrap;
-    overflow: hidden;
-    animation: digitando 1.5s steps(10) infinite alternate-reverse;  
- }
- @keyframes digitando {
-    from {
-        width: 0ch;
-    }
- }
+@keyframes typing {
+  from {
+    width: 0ch;
+  }
+}
+#cami2 {
+  color: green;
+  font-family: sans-serif;
+  text-wrap: nowrap;
+  overflow: hidden;
+  animation: digitando 1.5s steps(10) infinite alternate-reverse;
+}
+@keyframes digitando {
+  from {
+    width: 0ch;
+  }
+}
 
- #cami3 {
-    color: green;
-    font-family: sans-serif;
-    text-wrap: nowrap;
-    overflow: hidden;
-    animation: cami3 1.5s steps(10) infinite alternate-reverse;
- }
- @keyframes cami3 {
-    from {
-        width: 0ch;
-    }
- }
-
+#cami3 {
+  color: green;
+  font-family: sans-serif;
+  text-wrap: nowrap;
+  overflow: hidden;
+  animation: cami3 1.5s steps(10) infinite alternate-reverse;
+}
+@keyframes cami3 {
+  from {
+    width: 0ch;
+  }
+}
 
 .Cadastro {
-    text-align: right;
-    padding: 50px;
-    color: white;
+  text-align: right;
+  padding: 50px;
+  color: white;
 }
 form {
-    text-align: right;
-    padding: 50px;
+  text-align: right;
+  padding: 50px;
 }
 p {
-    color: white;
-    text-align: center;
+  color: white;
+  text-align: center;
 }
 .nome {
-    color: white;
+  color: white;
 }
 .email {
-    color: white;
+  color: white;
 }
 #texto {
-    color: white;
+  color: white;
 }
 
 #modelo {
-    color: white;
-    text-align: center;
-    font-style: oblique;
-    font-family: 'Times New Roman', Times, serif;
+  color: white;
+  text-align: center;
+  font-style: oblique;
+  font-family: "Times New Roman", Times, serif;
 }
 #oferta {
-    text-align: center;
-    color: wheat;
+  text-align: center;
+  color: wheat;
 }
-
